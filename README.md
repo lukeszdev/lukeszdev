@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm lukesz
 
-- 🔨 Java Developer
+- 🔨 Java and Lua Developer
 - 📚 Learning JavaScript (Discord.js)
 
  <div>
