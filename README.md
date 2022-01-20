@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm lukesz
 
-- 🔨 Java and Lua Developer
-- 📚 Learning JavaScript (Discord.js)
+- 🔨 Java and JavaSCript Developer
+- 📚 Learning Discord.js for bot development
 
  <div>
   <a href="https://github.com/lukeszdev">
