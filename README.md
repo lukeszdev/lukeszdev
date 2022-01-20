@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm lukesz
 
-- 🔨 Java and JavaSCript Developer
+- 🔨 Java and JavaScript Developer
 - 📚 Learning Discord.js for bot development
 
  <div>
@@ -11,5 +11,4 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="lukesz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="lukesz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="lukesz-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg">
 </div>
