@@ -1,6 +1,15 @@
-### 👋 Hi, I'm lukesz
+<h1 align="center">👋 Hello, I'm lukesz</h1>
 
-Social Media: <br>
-<img align="center" alt="discord" height="40" width="40" src="https://i.imgur.com/oPhuS9c.png"> <a href="https://github.com/lukeszdev">**lukesz#7828**</a> <br>
-<img align="center" alt="twitter" height="40" width="40" src="https://img.icons8.com/color/480/twitter--v1.png"> <a href="https://twitter.com/lukeszzz">**@lukeszzz** </a><br>
-<img align="center" alt="email" height="40" width="40" src="https://icons-for-free.com/iconfiles/png/512/email+gmail+mail+message+service+icon-1320183404410750774.png"> **lukeszcontato@gmail.com**
+## Sobre mim
+
+✏️ │ Trabalhando com desenvolvimento de plugins para minecraft <br>
+🤖 │ Desenvolvendo BOTs para discord `(discord.js)` <br>
+📚 │ Estudando desenvolvimento WEB
+
+## Estatísticas
+
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukeszdev&count_private=true&theme=dracula)
+
+## Contato
+
+<img src="https://lanyard.cnrad.dev/api/373279097905872896"> <br/><br/>
