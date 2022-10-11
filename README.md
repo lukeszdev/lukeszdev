@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-✏️ │ Trabalhando com desenvolvimento de plugins para minecraft <br>
+✏️ │ Trabalhando com a criação de plugins para minecraft <br>
 🤖 │ Desenvolvendo BOTs para discord `(discord.js)` <br>
 📚 │ Estudando desenvolvimento WEB
 
