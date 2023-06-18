@@ -12,4 +12,4 @@
 
 ## Contato
 
-<img src="https://lanyard.cnrad.dev/api/373279097905872896"> <br/><br/>
+<img src="https://api.lanyard.rest/v1/users/373279097905872896"> <br/><br/>
